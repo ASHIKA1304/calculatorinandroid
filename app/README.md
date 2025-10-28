@@ -1,4 +1,4 @@
-# Ex.No:7 Develop a simple calculator using android studio.
+# Ex.No:5 Develop a simple calculator using android studio.
 
 ## AIM:
 
